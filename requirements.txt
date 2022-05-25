@@ -3,3 +3,4 @@ TgCrypto
 umongoumongo==3.0.1
 dnspython
 heroku3
+pymongo==4.0
