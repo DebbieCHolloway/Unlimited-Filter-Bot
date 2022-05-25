@@ -1,6 +1,7 @@
-Pyrogram==1.2.11
-TgCrypto
-umongo==3.0.1
-dnspython
-heroku3
+requests==2.26.0
+config==0.5.1
+heroku3==5.1.4
 pymongo==4.0
+Pyrogram==1.2.11
+typing==3.10.0.0
+TgCrypto==1.2.2
