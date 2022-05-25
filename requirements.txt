@@ -1,7 +1,7 @@
 requests==2.26.0
 config==0.5.1
 heroku3==5.1.4
-pymongo==4.0
+umongo==3.0.1
 Pyrogram==1.2.11
 typing
 TgCrypto==1.2.2
