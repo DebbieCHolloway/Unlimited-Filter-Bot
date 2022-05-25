@@ -1,6 +1,6 @@
 Pyrogram==1.2.11
 TgCrypto
-umongoumongo==3.0.1
+umongo==3.0.1
 dnspython
 heroku3
 pymongo==4.0
